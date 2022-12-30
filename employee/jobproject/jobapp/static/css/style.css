@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://images.pexels.com/photos/3369526/pexels-photo-3369526.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    
+  }
+
+  .starting_div {
+    
+    width: 29%;
+    height: 56vh;
+    text-align: center;
+    /* border: 3px solid rgb(255, 255, 255); */
+    font-size: 33px;
+    margin-left: 521px;
+    margin-top: 281px;
+    color: white;
+}
+
+.login_div{
+    margin-top: 124px;
+    color: white;
+}
